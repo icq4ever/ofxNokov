@@ -1,0 +1,4 @@
+ofxNokov
+ofxOsc
+ofxPoco
+ofxWatcher
